@@ -26,3 +26,7 @@ Here are a list of needed libraries:
 <br>
 <br>
 A virtual environment is also available with these 6 libraries at the same s3 location
+
+<br>
+<br>
+The file can be run locally by running "python3 api.py"
