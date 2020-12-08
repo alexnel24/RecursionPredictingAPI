@@ -24,4 +24,5 @@ Here are a list of needed libraries:
 6.	cv2 from opencv-python
 
 <br>
+<br>
 A virtual environment is also available with these 6 libraries at the same s3 location
