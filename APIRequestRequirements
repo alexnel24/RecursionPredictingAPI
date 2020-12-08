@@ -1,0 +1,7 @@
+Here are the requirements to submit a request to a locally running api.
+
+send a get request to "http://127.0.0.1:8080/api/predict"
+
+This get request must contain as data a cv2 encoded 512x512 image to produce a prediction.
+
+For any questions on how to submit a request please e-mail Alex at alexander.nelson24@gmail.com
