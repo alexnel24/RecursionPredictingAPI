@@ -1,0 +1,13 @@
+PYTHON3 IS REQUIRED TO RUN THESE COMMANDS:
+
+These are the instructions to download the provided virtual environment from the s3 bucket
+
+Instructions:
+1. Login to AWS with the credentials associated with this project (to receive these credentials e-mail Alex at alexander.nelson24@gmail.com) 
+2. Navigate to "capstone-bucket-first/modelForAPI/virt"
+3. Download the folder "virt" from the s3 bucket
+4. On your local machine run the command "source virt/bin/activate"
+
+You are now working inside a virtual environment!
+
+To leave the virtual enviroment, run the command "deactivate"
